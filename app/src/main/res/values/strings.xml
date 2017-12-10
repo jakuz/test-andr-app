@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestowaApka</string>
+    <string name="welcome_message">Welcome to my test Android app!</string>
 </resources>
